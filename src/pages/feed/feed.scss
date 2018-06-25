@@ -1,0 +1,14 @@
+page-feed {
+	
+	/*uso quando eu quero fazer estilos css na pagina
+	caso queira um estilo mais global uso a pasta app/app.scss*/
+
+	h2.feed_title {
+    color:  red;
+    font-weight:  bold;
+	}
+
+	p.feed_date {
+    color: green;
+	}
+}
